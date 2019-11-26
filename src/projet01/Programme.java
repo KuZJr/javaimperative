@@ -2,7 +2,7 @@ package projet01;
 
 import java.util.Arrays;
 import java.util.Scanner;
-
+//Programme ateliers Java Imperative
 public class Programme {
 
 	public static void main(String[] args) {
